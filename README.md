@@ -9,7 +9,7 @@ The questions are organized by programming language and are available in both En
 ### Java
 
 - [English Questions](EnglishQuestions/Java/README.md): Explore Java interview questions in English.
-- [Preguntas en Español](SpanishQuestions/Java/README.md): Explora preguntas de entrevistas en Java en español.
+- [Preguntas en Español](SpanishQuestions/Java/README.md): Explora preguntas de entrevistas de Java en español.
 
 ## Contributing
 
